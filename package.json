@@ -6,10 +6,27 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "tripsimian",
+  "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
     "great-circle": "^0.2.8",
-    "papaparse": "^5.1.1"
-  }
+    "papaparse": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripsimian/icao_cem_caluclator.git"
+  },
+  "keywords": [
+    "co2",
+    "airline",
+    "flight",
+    "carbonemissions",
+    "api",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/tripsimian/icao_cem_caluclator/issues"
+  },
+  "homepage": "https://github.com/tripsimian/icao_cem_caluclator#readme"
 }
