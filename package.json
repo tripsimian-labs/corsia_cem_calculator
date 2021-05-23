@@ -1,0 +1,15 @@
+{
+  "name": "calc_flight_co2",
+  "version": "1.0.0",
+  "description": "based on ICAO CEM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "great-circle": "^0.2.8",
+    "papaparse": "^5.1.1"
+  }
+}
